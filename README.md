@@ -312,6 +312,8 @@ Accessed the osTicket web installer and confirmed a successful deployment by log
 
 </details>
 
+---
+
 <a id="final-notes"></a>
 ## Final Notes
 
