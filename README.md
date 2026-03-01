@@ -55,6 +55,8 @@ This project simulates a small enterprise help desk environment backed by Active
 
 ## Build Phases
 <p><em>Phases are presented as collapsible sections for readability. Expand each to view implementation details and validation artifacts.</em></p>
+
+<a id="phase-1--active-directory-foundation"></a>
 <details>
 <summary><b>📁 Phase 1 — Active Directory Foundation</b></summary>
 
