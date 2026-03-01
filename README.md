@@ -97,6 +97,7 @@ Write-Host "OU structure created."
 
 ---
 
+<a id="phase-2--lamp-stack-deployment"></a>
 <details>
 <summary><b>📁 Phase 2 — LAMP Stack Deployment</b></summary>
 
