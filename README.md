@@ -311,3 +311,23 @@ Accessed the osTicket web installer and confirmed a successful deployment by log
 </p>
 
 </details>
+
+<a id="final-notes"></a>
+## Final Notes
+
+This project demonstrates a full-stack enterprise help desk deployment from identity infrastructure through application validation.
+
+**Key takeaways**
+- Built a structured Active Directory environment supporting scalable enterprise identity management
+- Deployed and validated a complete Linux LAMP stack
+- Installed and verified a real-world help desk platform (osTicket)
+- Practiced end-to-end infrastructure validation and documentation
+
+**Real-world relevance**
+This lab mirrors common responsibilities in entry-level and mid-tier IT roles, including system provisioning, service validation, troubleshooting, and operational documentation.
+
+**Future enhancements**
+- Active Directory ↔ osTicket LDAP integration
+- HTTPS hardening and reverse proxy deployment
+- Automated user provisioning workflows
+- Backup and monitoring integration
