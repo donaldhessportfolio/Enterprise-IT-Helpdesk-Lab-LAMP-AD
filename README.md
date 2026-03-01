@@ -241,6 +241,7 @@ apache2ctl -M | grep php || true
 
 ---
 
+<a id="phase-3--osticket-deployment"></a>
 <details>
 <summary><b>📁 Phase 3 — osTicket Deployment</b></summary>
 
