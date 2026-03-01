@@ -18,9 +18,7 @@ Enterprise help desk simulation lab featuring Active Directory, a full LAMP stac
   - [Phase 1 — Active Directory Foundation](#phase-1--active-directory-foundation)
   - [Phase 2 — LAMP Stack Deployment](#phase-2--lamp-stack-deployment)
   - [Phase 3 — osTicket Deployment](#phase-3--osticket-deployment)
-- [Deployment Walkthrough](#deployment-walkthrough)
-- [Lessons Learned](#lessons-learned)
-- [Roadmap](#roadmap)
+- [Final Notes](#final-notes)
 
 ## Executive Summary
 This project simulates a small enterprise help desk environment backed by Active Directory and a Linux-hosted osTicket deployment on a full LAMP stack (Linux, Apache, MariaDB, PHP). The lab demonstrates identity management, infrastructure deployment, service validation, and real-world help desk tooling in an end-to-end environment.
